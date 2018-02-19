@@ -1,0 +1,23 @@
+{
+  "name": "rdi-async-mw-wrap",
+  "version": "1.0.0",
+  "description": "Async functions wrapper for exress-style",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "keywords": [
+    "async",
+    "express"
+  ],
+  "author": "Rochnyak Dmitriy",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rochnyak-d-i/node-async-mw-wrap.git"
+  },
+  "homepage": "https://github.com/rochnyak-d-i/node-async-mw-wrap",
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  }
+}
