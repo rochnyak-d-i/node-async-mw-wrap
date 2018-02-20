@@ -4,7 +4,7 @@
 
 ### Установка
 ```bash
-npm i git+https://git@github.com/rochnyak-d-i/node-async-mw-wrap.git
+npm i https://git@github.com/rochnyak-d-i/node-async-mw-wrap
 ```
 ### Работа
 ```js
